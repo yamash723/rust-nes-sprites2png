@@ -1,0 +1,8 @@
+[package]
+name = "rust-nes-sprites2png"
+version = "0.1.0"
+authors = ["Shuhei Yamashita <b.e7472@gmail.com>"]
+
+[dependencies]
+image = "*"
+arrayref = "*"
